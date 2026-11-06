@@ -1,0 +1,6 @@
+{
+  "name": "SegmentIQ - Estudio de Segmentación y Estrategia de Negocio",
+  "description": "Plataforma integral para segmentación de clientes y mercado: ingesta de datos, reglas de negocio, validación estadística (Codo, Silueta, GAP), perfiles y estrategias accionables de precios, innovación y fidelización.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
